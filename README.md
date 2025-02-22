@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hola 👋
+Mi nombre es Augusto, soy analista en sistemas y, a lo largo de mi trayectoria, decidí especializarme en Ciencia de Datos y Desarrollo Web.
 <!--
 **augustosz/augustosz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
