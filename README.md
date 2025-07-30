@@ -1,5 +1,5 @@
 ## Hola 👋
-Mi nombre es Augusto, soy analista en sistemas con enfoque en data y desarrollo.
+Mi nombre es Augusto, soy analista en sistemas con enfoque en data y desarrollo web.
 <!--
 **augustosz/augustosz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
