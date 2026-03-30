@@ -14,12 +14,14 @@ Analista en Sistemas orientado al desarrollo de software y la automatización. I
 
 | Proyecto | Descripción | Stack |
 |---|---|---|
-| [odoo-18-docker](https://github.com/augustosz/odoo-18-docker) | Stack ERP containerizado con Docker Compose + Nginx | Docker · Odoo · PostgreSQL |
 | [crud-node-postgre](https://github.com/augustosz/crud-node-postgre) | API REST con autenticación JWT | Node.js · TypeScript · PostgreSQL |
+| [task-manager-api](https://github.com/augustosz/task-manager-api) | Gestor de tareas full-stack | TypeScript · Node.js |
 | [auto_xlsx_send](https://github.com/augustosz/auto_xlsx_send) | Automatización de emails y formularios desde Excel | Python · Selenium |
+| [sistema-ventas-pos](https://github.com/augustosz/sistema-ventas-pos) | Sistema de ventas POS web | JavaScript |
 | [api_rest_mongo](https://github.com/augustosz/api_rest_mongo) | API REST con Node.js y MongoDB | Node.js · Express · MongoDB |
 | [etl-pipeline](https://github.com/augustosz/etl-pipeline) | Pipeline ETL para procesamiento de datos | Python · Pandas |
 | [churn-prediction](https://github.com/augustosz/churn-prediction) | Modelo de predicción de abandono de clientes | Python · Scikit-learn |
+| [consultas](https://github.com/augustosz/consultas) | Consultas SQL avanzadas en PostgreSQL | SQL · PostgreSQL |
 
 ## Contacto
 
